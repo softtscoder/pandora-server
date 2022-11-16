@@ -20,6 +20,6 @@ The customer can sign in/sign up with Google and email password. Customers can p
 
 🍧 EXPRESS <br/>
 🍧 MONGODB <br/>
-🍧 HEROKU <br/>
+🍧 NETLIFY <br/>
 🍧 CORS <br/>
 🍧 NODEMON <br/>
